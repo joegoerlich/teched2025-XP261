@@ -27,7 +27,7 @@ In this exercise, you will onboard the new employee in the scenario with the nam
 
 <img src="./images/S3-30.png" >
 
-4. Scroll down and enter the <b>Person Id</b>: jsmith&lt;`NNN`&gt;.<br><br>Replace `NNN` with your seat number, for example *jsmith045* or *jsmith008*
+4. Scroll down and enter the <b>Person Id</b>: jsmith&lt;`NNN`&gt;.<br><br>Replace `NNN` with your seat number, for example *jsmith045* or *jsmith008*, and click <b>Continue</b>.
 
 <img src="./images/S3-40.png" >
 
